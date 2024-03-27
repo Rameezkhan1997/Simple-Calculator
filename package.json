@@ -1,0 +1,21 @@
+{
+  "name": "ark97simple-calculator",
+  "version": "1.0.1",
+  "description": "A Simple Calculator with Typerscript",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "ark97simple-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Rameez Khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
